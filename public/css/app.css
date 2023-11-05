@@ -1,6 +1,23 @@
-h1{
-    color: red;
+body{
+    background-color: rgb(81, 137, 139);
+    /* background-image: url(../img/Frame\ Tool\ 8.jpg); */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
 }
-p{
-    color: aqua;
+nav{
+    background-color: cadetblue;
+    width: 1020px;
+    padding: 15px 0;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+nav a {
+    text-decoration: none;
+    color: rgb(0, 61, 0);
+    font-size:18px ;
+    font-weight: 600;
 }
