@@ -50,5 +50,10 @@ button:hover{
     background-color: cadetblue;
     height: 1000px;
     margin-top:10px ;
-
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
+.first img {
+    width: 500px;
 }
